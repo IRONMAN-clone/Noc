@@ -4,6 +4,7 @@ Noc is a stack based programming language just like Forth or my last language Pi
 
 
 # Simulation Guide
+```c
 Usage: noc <FILE> [SUBCOMMAND] [CODETYPE]
 SUBCOMMAND:
    -simulate    Simulate the program
@@ -11,6 +12,7 @@ SUBCOMMAND:
 CODETYPE:
    -safe        Simulate the code in safe environment
    -unsafe      Simulate the code in unsafe environment
+```
 
 # Updates On The Language
 
