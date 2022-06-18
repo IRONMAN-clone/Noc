@@ -1,7 +1,6 @@
 # NOC
-========================================================================================
-Noc is a stack based programming language just like Forth or my last language Pitt     | (which i accidentally broke completely so decided to work with a new better version of |it)                                                                                    |
-========================================================================================
+Noc is a stack based programming language just like Forth or my last language Pitt (which i accidentally broke completely so decided to work with a new better version of it)
+
 
 
 # Simulation Guide
